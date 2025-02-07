@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Word-Format-Editor/static/css/main.953c3d23.css",
-    "main.js": "/Word-Format-Editor/static/js/main.97eb6837.js",
-    "static/js/453.f293bb83.chunk.js": "/Word-Format-Editor/static/js/453.f293bb83.chunk.js",
-    "static/media/logo.svg": "/Word-Format-Editor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Word-Format-Editor/index.html",
-    "main.953c3d23.css.map": "/Word-Format-Editor/static/css/main.953c3d23.css.map",
-    "main.97eb6837.js.map": "/Word-Format-Editor/static/js/main.97eb6837.js.map",
-    "453.f293bb83.chunk.js.map": "/Word-Format-Editor/static/js/453.f293bb83.chunk.js.map"
+    "main.css": "/project6/static/css/main.953c3d23.css",
+    "main.js": "/project6/static/js/main.1b219b22.js",
+    "static/js/453.f293bb83.chunk.js": "/project6/static/js/453.f293bb83.chunk.js",
+    "static/media/logo.svg": "/project6/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/project6/index.html",
+    "main.953c3d23.css.map": "/project6/static/css/main.953c3d23.css.map",
+    "main.1b219b22.js.map": "/project6/static/js/main.1b219b22.js.map",
+    "453.f293bb83.chunk.js.map": "/project6/static/js/453.f293bb83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.953c3d23.css",
-    "static/js/main.97eb6837.js"
+    "static/js/main.1b219b22.js"
   ]
 }
